@@ -1,2 +1,4 @@
 # SpriteUV2
-Official Issue tracker for SpriteUV2 (www.spriteuv.com)
+Storage place for SpriteUV2 (www.spriteuv.com)
+
+Latest completely free version is available in Release section (Only Windows)
