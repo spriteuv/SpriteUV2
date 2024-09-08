@@ -3,6 +3,7 @@ Storage place for SpriteUV2 (www.spriteuv.com)
 
 **Latest completely free version is available in Release section (Only Windows)**
 
+If you have any questions feel free to contact spriteuv@gmail.com
 
 # Tutorials
 
